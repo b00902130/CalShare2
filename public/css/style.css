@@ -1,0 +1,376 @@
+.container {
+  width: 100%;
+  position: relative;
+  overflow-x: hidden;
+}
+a {
+  color: #ffffff;
+  font-family: Verdana;
+
+}
+
+body h1, 
+body h2,
+body h3,
+body h4, 
+body p {
+  color: #696969;
+}
+*:focus {
+  outline: 0;
+}
+
+/*
+ *
+ */
+#subForm {
+  margin: 2em auto;
+}
+#subForm input,
+#subForm select {
+  float: left;
+  height: 3em;
+  font-size: 1.1rem;
+  padding: 0 1em;
+} 
+#subForm #domain {
+  width: 58%;
+}
+#subForm #extent {
+  width: 20%;
+  cursor: pointer;
+}
+#subForm #search {
+  width: 20%;
+  margin-left: 2%;
+}
+
+/*
+ * search results
+ */
+.response {
+  display: none;
+}
+.response .result {
+  text-align: center;
+  background: #80A8AC;
+  width: 96%;
+  position: absolute;
+  padding: 2em;
+  margin-top: -10px;
+  border-radius: 5px;
+  z-index: 3;
+  display: none;
+}
+.used.result p {
+  color: #fafafa;
+  margin-bottom: 0;
+}
+
+.available.result {
+  padding: 0;
+  background: none;
+}
+.available.result table {
+  width: 100%;
+}
+.available .addToCart {
+  margin: 0;
+  height: 30px;
+  line-height: 30px;
+  padding: 0;
+  width: 100px;
+}
+/* 
+ * content
+ */
+
+section {
+  text-align: center;
+  padding: 10em 0 10em 0;
+}
+
+.content p {
+  margin-bottom: 1em;
+}
+
+#main {
+  background: url('../img/bg.png');
+  /*
+  background: url('../img/overlay.png'), url('../img/one.jpg');
+  background-size: 256px 256px, cover;
+  background-attachment: fixed, fixed;
+  background-position: top left, bottom center;
+  background-repeat: repeat, no-repeat;
+  */
+}
+#main h4 {
+  margin: 1em;
+}
+
+#intro .panel {
+  display: inline-block;
+  width: 30%;
+  height: 280px;
+  margin: 1.5%;
+}
+#intro .panel img {
+  margin: 1em;
+}
+
+#pricing .pricing-table {
+  display: inline-block;
+  width: 30%;
+  margin: 1%;
+}
+#pricing .cta-button span {
+  cursor: pointer;
+}
+
+.white,
+.white h2,
+.white p {
+  color: #fff;
+}
+
+
+#faq,
+#contact,
+#footer {
+  background: #f5f6f7;
+}
+
+.move_trigger {
+  color: #0078a0;
+  cursor: pointer;
+}
+
+.movable {
+  transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out; /** Chrome & Safari **/
+  -moz-transition: all 0.5s ease-in-out; /** Firefox **/
+  -o-transition: all 0.5s ease-in-out; /** Opera **/
+  overflow-y: auto;
+  overflow-x: hidden;
+  /* margin-top: -150%; */
+  position: absolute;
+  width: 100%;
+  margin-bottom: 5em;
+}
+
+#signup.movable {
+  left: 150%;
+}
+
+.move_left {
+  transform: translate(-150%,0);
+  -webkit-transform: translate(-150%,0); /** Safari & Chrome **/
+  -o-transform: translate(-150%,0); /** Opera **/
+  -moz-transform: translate(-150%,0); /** Firefox **/
+}
+
+#footer {
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out; /** Chrome & Safari **/
+  -moz-transition: all 0.3s ease-in-out; /** Firefox **/
+  -o-transition: all 0.3s ease-in-out; /** Opera **/
+  padding: 1em 0;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  opacity: 0;
+}
+#footer p {
+  margin: 0;
+}
+@media only screen and (max-width: 890px) {
+
+  #subForm #domain {
+    width: 60%;
+  }
+  #subForm #extent {
+    width: 40%;
+  }
+  #subForm #search {
+    width: 100%;
+    margin-left: 0;
+  }
+  #intro .panel ,
+  #pricing .pricing-table {
+    width: 90%;
+    margin: 2% 5%;
+    height: auto;
+  }
+    
+}
+
+/*
+ spinner 
+ */
+ #loading{
+  position: absolute;
+  left: 48%;
+}
+
+.spinner{
+  background-color:#969696;
+  border:1px solid #969696;
+  float:left;
+  height:36px;
+  z-index: 2;
+  margin-left:3px;
+  width:10px;
+  opacity:0.1;
+  -moz-animation-name:bounceG;
+  -moz-animation-duration:1.6s;
+  -moz-animation-iteration-count:infinite;
+  -moz-animation-direction:linear;
+  -moz-transform:scale(0.7);
+  -webkit-animation-name:bounceG;
+  -webkit-animation-duration:1.6s;
+  -webkit-animation-iteration-count:infinite;
+  -webkit-animation-direction:linear;
+  -webkit-transform:scale(0.7);
+  -ms-animation-name:bounceG;
+  -ms-animation-duration:1.6s;
+  -ms-animation-iteration-count:infinite;
+  -ms-animation-direction:linear;
+  -ms-transform:scale(0.7);
+  -o-animation-name:bounceG;
+  -o-animation-duration:1.6s;
+  -o-animation-iteration-count:infinite;
+  -o-animation-direction:linear;
+  -o-transform:scale(0.7);
+  animation-name:bounceG;
+  animation-duration:1.6s;
+  animation-iteration-count:infinite;
+  animation-direction:linear;
+  transform:scale(0.7);
+}
+
+.block_1{
+  -moz-animation-delay:0.4800000000000001s;
+  -webkit-animation-delay:0.4800000000000001s;
+  -ms-animation-delay:0.4800000000000001s;
+  -o-animation-delay:0.4800000000000001s;
+  animation-delay:0.4800000000000001s;
+}
+
+.block_2{
+  -moz-animation-delay:0.64s;
+  -webkit-animation-delay:0.64s;
+  -ms-animation-delay:0.64s;
+  -o-animation-delay:0.64s;
+  animation-delay:0.64s;
+}
+
+.block_3{
+  -moz-animation-delay:0.8s;
+  -webkit-animation-delay:0.8s;
+  -ms-animation-delay:0.8s;
+  -o-animation-delay:0.8s;
+  animation-delay:0.8s;
+}
+
+@-moz-keyframes bounceG{
+  0% {
+    -moz-transform:scale(1.2);
+    opacity:1
+  }
+
+  100% {
+    -moz-transform:scale(0.7);
+    opacity:0.1
+  }
+
+}
+
+@-webkit-keyframes bounceG{
+  0%{
+  -webkit-transform:scale(1.2);
+  opacity:1}
+
+  100%{
+  -webkit-transform:scale(0.7);
+  opacity:0.1}
+
+}
+
+@-ms-keyframes bounceG{
+  0%{
+  -ms-transform:scale(1.2);
+  opacity:1}
+
+  100%{
+  -ms-transform:scale(0.7);
+  opacity:0.1}
+}
+
+@-o-keyframes bounceG{
+  0%{
+  -o-transform:scale(1.2);
+  opacity:1}
+
+  100%{
+  -o-transform:scale(0.7);
+  opacity:0.1}
+}
+
+@keyframes bounceG{
+  0%{
+  transform:scale(1.2);
+  opacity:1}
+
+  100%{
+  transform:scale(0.7);
+  opacity:0.1}
+
+}
+
+.talkPicture{
+  width:200px;
+  height:260px;
+  position:relative;
+  float:left;
+  margin-left:5%;
+}
+
+.talkTitle{
+  text-align:center; 
+  font-size:16px; 
+  color:#5B5B5B;  
+  padding-top:10px;
+}
+
+.talkSpeaker{
+  text-align:center; 
+  font-size:14px; 
+  color:gray;  
+  padding-top:10px;
+}
+
+.talkNumberOfVotes{
+  text-align: center; 
+  padding-top: 10px;
+}
+
+#category{
+  /*background: url('../img/one.jpg');*/
+}
+
+.wid40{
+  width: 100px;
+  margin:20px; 
+}
+
+.wahaha{
+  width: 100px;
+  height: 100px;
+  background: orange;
+  border: 2px solid #000;
+  display: none;
+}
+
+#top{
+  /*background: url('http://turnlol.com/images/2012/10/candles-2560x1440-hd-wallpaper.jpg');*/
+}

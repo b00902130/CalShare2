@@ -1,0 +1,40 @@
+{
+  "name": "CalShare",
+  "version": "0.0.0",
+  "description": "2014HackathonNTU",
+  "main": "app.js",
+  "scripts": {
+    "test": "yeah"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/b00902130/CalShare.git"
+  },
+  "keywords": [
+    "CalShare"
+  ],
+  "author": "HackEverything",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b00902130/CalShare/issues"
+  },
+  "homepage": "https://github.com/b00902130/CalShare",
+  "dependencies": {
+    "mongodb": "*",
+    "request": "*",
+    "mongoskin": "*",
+    "mongoose": "~3.8.9",
+    "express": "3.4.8",
+    "jade": "*",
+    "moment": "*",
+    "passport": "*",
+    "passport-google": "*",
+    "mongoose" : "~3.8.1",      
+    "passport-local" : "~0.1.6",  
+    "passport-facebook" : "~1.0.2", 
+    "passport-twitter" : "~1.0.2",  
+    "passport-google-oauth" : "~0.1.5",
+    "connect-flash" : "~0.1.1",   
+    "bcrypt-nodejs" : "latest" 
+  }
+}

@@ -1,0 +1,2136 @@
+{
+  "kind": "calendar#events",
+  "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/wZNrY_fvZ8UroZ5AnSWBh9sr8T4\"",
+  "summary": "Jobs",
+  "description": "",
+  "updated": "2014-05-24T10:18:08.137Z",
+  "timeZone": "Asia/Taipei",
+  "accessRole": "reader",
+  "nextSyncToken": "CKjFl--mxL4CEAAYAQ==",
+  "items": [
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjczNjU4MzYxNjM3NDAwMA\"",
+      "id": "fbbspbti9bdjoloktc48q7o2cc",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=ZmJic3BidGk5YmRqb2xva3RjNDhxN28yY2MgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-05-11T17:03:28.000Z",
+      "updated": "2013-05-11T17:03:28.187Z",
+      "summary": "偉文普物A助教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-05-15T17:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-05-15T20:00:00+08:00"
+      },
+      "iCalUID": "fbbspbti9bdjoloktc48q7o2cc@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjczNjg0NjQ4MTA2NjAwMA\"",
+      "id": "8sjusmkigocinr8njtf04une3c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=OHNqdXNta2lnb2NpbnI4bmp0ZjA0dW5lM2MgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-05-13T05:34:00.000Z",
+      "updated": "2013-05-13T05:34:00.533Z",
+      "summary": "生工之夜Case",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-05-14T19:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-05-14T20:30:00+08:00"
+      },
+      "iCalUID": "8sjusmkigocinr8njtf04une3c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjczNzk2NzgzNDQ0MjAwMA\"",
+      "id": "m06b5tucd6t1qhheh8ghq3c5hk",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=bTA2YjV0dWNkNnQxcWhoZWg4Z2hxM2M1aGsgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-05-19T17:18:26.000Z",
+      "updated": "2013-05-19T17:18:37.221Z",
+      "summary": "偉文助教代班",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-05-20T18:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-05-20T21:00:00+08:00"
+      },
+      "iCalUID": "m06b5tucd6t1qhheh8ghq3c5hk@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjczNzk2Nzg1NzY2NjAwMA\"",
+      "id": "ad15q803v2u8od3i91fnt1dvk0",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=YWQxNXE4MDN2MnU4b2QzaTkxZm50MWR2azAgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-05-19T17:18:48.000Z",
+      "updated": "2013-05-19T17:18:48.833Z",
+      "summary": "偉文普物A助教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-05-22T18:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-05-22T21:00:00+08:00"
+      },
+      "iCalUID": "ad15q803v2u8od3i91fnt1dvk0@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjczODIzMzY1NzkwMjAwMA\"",
+      "id": "r2gk5m0396l7bad6f6fr7gksjk",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=cjJnazVtMDM5Nmw3YmFkNmY2ZnI3Z2tzamsgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-05-21T06:13:48.000Z",
+      "updated": "2013-05-21T06:13:48.951Z",
+      "summary": "編舞",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-05-21T18:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-05-21T19:00:00+08:00"
+      },
+      "iCalUID": "r2gk5m0396l7bad6f6fr7gksjk@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjczODIzMzcwMDMwMDAwMA\"",
+      "id": "pocot2hultdq1m2spej9acsds0",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=cG9jb3QyaHVsdGRxMW0yc3BlajlhY3NkczAgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-05-18T05:33:44.000Z",
+      "updated": "2013-05-21T06:14:10.150Z",
+      "summary": "教生工之夜case",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-05-21T19:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-05-21T21:00:00+08:00"
+      },
+      "iCalUID": "pocot2hultdq1m2spej9acsds0@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjczOTE0NDUwNjUwODAwMA\"",
+      "id": "b034069mf9t29oquqkidjbdqko",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=YjAzNDA2OW1mOXQyOW9xdXFraWRqYmRxa28gNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-05-26T12:44:13.000Z",
+      "updated": "2013-05-26T12:44:13.254Z",
+      "summary": "微積分助教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-05-27T18:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-05-27T21:30:00+08:00"
+      },
+      "iCalUID": "b034069mf9t29oquqkidjbdqko@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjczOTQzMDAwMTQ4MjAwMA\"",
+      "id": "v4gp73q34g75p0kmib3sutb3o0",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=djRncDczcTM0Zzc1cDBrbWliM3N1dGIzbzAgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-05-28T04:23:20.000Z",
+      "updated": "2013-05-28T04:23:20.741Z",
+      "summary": "偉文微積分助教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-05-29T17:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-05-29T20:00:00+08:00"
+      },
+      "iCalUID": "v4gp73q34g75p0kmib3sutb3o0@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjczOTc4NDAzNzM0MjAwMA\"",
+      "id": "_64r3ad9m6cs46ba460ojib9k6gsjaba16co3ib9p64rj6c9o88s30ea374",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzY0cjNhZDltNmNzNDZiYTQ2MG9qaWI5azZnc2phYmExNmNvM2liOXA2NHJqNmM5bzg4czMwZWEzNzQgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-05-30T05:33:23.000Z",
+      "updated": "2013-05-30T05:33:38.671Z",
+      "summary": "助教代班",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-05-30T17:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-05-30T20:00:00+08:00"
+      },
+      "iCalUID": "1655638C-D019-4495-A309-917318B809C9",
+      "sequence": 2
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjczOTkzMTEzMDk0MDAwMA\"",
+      "id": "_70o44da37513eba46h242b9k65142ba18d2kcb9o84ok6c9g8csjicq16s",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzcwbzQ0ZGEzNzUxM2ViYTQ2aDI0MmI5azY1MTQyYmExOGQya2NiOW84NG9rNmM5Zzhjc2ppY3ExNnMgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-05-31T01:59:25.000Z",
+      "updated": "2013-05-31T01:59:25.470Z",
+      "summary": "辦桌case彩排",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-06-01T15:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-06-01T16:30:00+08:00"
+      },
+      "iCalUID": "80B5C9B7-D4DA-41BA-ACEF-8A1C10C993A7",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjczOTkzMTE2ODU4NjAwMA\"",
+      "id": "_8oo48dq28oojgb9p6ook6b9k651k2ba26sp3aba38d338dpi650k8d1m8k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzhvbzQ4ZHEyOG9vamdiOXA2b29rNmI5azY1MWsyYmEyNnNwM2FiYTM4ZDMzOGRwaTY1MGs4ZDFtOGsgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-05-31T01:59:44.000Z",
+      "updated": "2013-05-31T01:59:44.293Z",
+      "summary": "辦桌case",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-06-01T18:15:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-06-01T19:15:00+08:00"
+      },
+      "iCalUID": "F0D7BF18-961C-41CA-B725-CCF4721AD46E",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc0MDEzOTE3MjcwODAwMA\"",
+      "id": "m8j392j11u6u34cr60pqkncar0",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=bThqMzkyajExdTZ1MzRjcjYwcHFrbmNhcjAgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-06-01T06:53:06.000Z",
+      "updated": "2013-06-01T06:53:06.354Z",
+      "summary": "偉文微積分助教代班",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-06-03T17:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-06-03T20:00:00+08:00"
+      },
+      "iCalUID": "m8j392j11u6u34cr60pqkncar0@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc0MDM4OTY3OTUzODAwMA\"",
+      "id": "f5lcos25vt7med0kbefv1rg598",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=ZjVsY29zMjV2dDdtZWQwa2JlZnYxcmc1OTggNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-06-02T17:40:39.000Z",
+      "updated": "2013-06-02T17:40:39.769Z",
+      "summary": "偉文微積分助教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-06-05T17:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-06-05T20:00:00+08:00"
+      },
+      "iCalUID": "f5lcos25vt7med0kbefv1rg598@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc0MDU2MDU5MTEyNDAwMA\"",
+      "id": "oa3deftf6sfroonncvo3i8gpm8",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=b2EzZGVmdGY2c2Zyb29ubmN2bzNpOGdwbTggNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-06-03T17:24:55.000Z",
+      "updated": "2013-06-03T17:24:55.562Z",
+      "summary": "林軒宇繳費+林毓家拿章+秦維邑拿存摺",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-06-04T12:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-06-04T12:30:00+08:00"
+      },
+      "iCalUID": "oa3deftf6sfroonncvo3i8gpm8@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc0MTU1OTQxODUxMjAwMA\"",
+      "id": "4iiaj7bm0b3016e3qo2g189u7c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGlpYWo3Ym0wYjMwMTZlM3FvMmcxODl1N2MgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-06-09T12:08:29.000Z",
+      "updated": "2013-06-09T12:08:29.256Z",
+      "summary": "微積分助教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-06-10T18:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-06-10T21:30:00+08:00"
+      },
+      "iCalUID": "4iiaj7bm0b3016e3qo2g189u7c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc0MTU1OTQ1Mjg1MjAwMA\"",
+      "id": "3fdjt85jbbd7o4g69s8rjeimo8",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZkanQ4NWpiYmQ3bzRnNjlzOHJqZWltbzggNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-06-09T12:08:46.000Z",
+      "updated": "2013-06-09T12:08:46.426Z",
+      "summary": "微積分助教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-06-12T18:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-06-12T21:00:00+08:00"
+      },
+      "iCalUID": "3fdjt85jbbd7o4g69s8rjeimo8@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc0NTMwMjU0MTEwNDAwMA\"",
+      "id": "_6p0k4e9p6d138ba2850j8b9k8h232b9o8p0jgba58kokae9p84sk8dq66k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZwMGs0ZTlwNmQxMzhiYTI4NTBqOGI5azhoMjMyYjlvOHAwamdiYTU4a29rYWU5cDg0c2s4ZHE2NmsgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-07-01T04:01:10.000Z",
+      "updated": "2013-07-01T04:01:10.552Z",
+      "summary": "寫演講文章",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-07-01T14:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-07-01T15:00:00+08:00"
+      },
+      "iCalUID": "6AB993B4-BAA4-4DD1-8FA8-EE1E99A9D7F5",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc0NTMxOTU0MTk2ODAwMA\"",
+      "id": "_6gqjih9o64o42ba36os32b9k64s38ba2712j0b9h60oj6h256cs32c9i8g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZncWppaDlvNjRvNDJiYTM2b3MzMmI5azY0czM4YmEyNzEyajBiOWg2MG9qNmgyNTZjczMyYzlpOGcgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-06-30T07:40:33.000Z",
+      "updated": "2013-07-01T06:22:50.984Z",
+      "summary": "轉學演講",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-07-10T19:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-07-10T20:00:00+08:00"
+      },
+      "iCalUID": "459E810A-C681-4184-B8E0-1013DE38112D",
+      "sequence": 1
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc0ODkyNDQwOTk3MDAwMA\"",
+      "id": "04648da7tlj6bh7i1bb8csmgi4",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MDQ2NDhkYTd0bGo2Ymg3aTFiYjhjc21naTQgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-07-22T03:03:24.000Z",
+      "updated": "2013-07-22T03:03:24.985Z",
+      "summary": "微積分家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-07-25T10:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-07-25T12:00:00+08:00"
+      },
+      "iCalUID": "04648da7tlj6bh7i1bb8csmgi4@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc0OTE5MzA0Nzg3MjAwMA\"",
+      "id": "r0aofc5t0d58g6dholjjnerp40",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=cjBhb2ZjNXQwZDU4ZzZkaG9sampuZXJwNDAgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-07-23T16:21:56.000Z",
+      "updated": "2013-07-23T16:22:03.936Z",
+      "summary": "微積分家教備課",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-07-24T21:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-07-24T22:30:00+08:00"
+      },
+      "iCalUID": "r0aofc5t0d58g6dholjjnerp40@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc1NTcyNjIzMTc3ODAwMA\"",
+      "id": "848bvi7nhd67nc4m02blaeo9e4",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=ODQ4YnZpN25oZDY3bmM0bTAyYmxhZW85ZTQgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-08-29T03:52:47.000Z",
+      "updated": "2013-08-30T11:45:15.889Z",
+      "summary": "C語言家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-08-30T20:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-08-30T21:30:00+08:00"
+      },
+      "iCalUID": "848bvi7nhd67nc4m02blaeo9e4@google.com",
+      "sequence": 1
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc1NjQ0MTA1MzM4ODAwMA\"",
+      "id": "b0lfqi7jt3nlmrdjrr9c4u37b0",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=YjBsZnFpN2p0M25sbXJkanJyOWM0dTM3YjAgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-09-03T15:02:06.000Z",
+      "updated": "2013-09-03T15:02:06.694Z",
+      "summary": "試教育達商職",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-09-05T18:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-09-05T19:00:00+08:00"
+      },
+      "iCalUID": "b0lfqi7jt3nlmrdjrr9c4u37b0@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc1OTk4ODQ3ODM1MjAwMA\"",
+      "id": "g5df6qsirpk2lvmrcvk1c84muc",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=ZzVkZjZxc2lycGsybHZtcmN2azFjODRtdWMgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-09-24T03:43:53.000Z",
+      "updated": "2013-09-24T03:43:59.176Z",
+      "summary": "去政大談實習",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-09-25T12:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-09-25T14:00:00+08:00"
+      },
+      "iCalUID": "g5df6qsirpk2lvmrcvk1c84muc@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc2MDAwMTU5NzY4MDAwMA\"",
+      "id": "5ho11r4a75famc4kmipfo1i8cg",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NWhvMTFyNGE3NWZhbWM0a21pcGZvMWk4Y2cgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-09-24T05:33:18.000Z",
+      "updated": "2013-09-24T05:33:18.840Z",
+      "summary": "A班助教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-10-05T18:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-10-05T22:00:00+08:00"
+      },
+      "iCalUID": "5ho11r4a75famc4kmipfo1i8cg@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc2MTYzMDIyNTM3MDAwMA\"",
+      "id": "jkpsjrdns48o403d40ktsp3h9o",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=amtwc2pyZG5zNDhvNDAzZDQwa3RzcDNoOW9fMjAxMzA5MDZUMTEzMDAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2013-09-03T15:13:39.000Z",
+      "updated": "2013-10-03T15:45:12.685Z",
+      "summary": "小六弟C語言家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-09-06T19:30:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "end": {
+        "dateTime": "2013-09-06T21:30:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "recurrence": [
+        "EXDATE;TZID=Asia/Taipei:20130920T193000",
+        "RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=FR"
+      ],
+      "iCalUID": "jkpsjrdns48o403d40ktsp3h9o@google.com",
+      "sequence": 1
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc2MTczODM0MzcyNDAwMA\"",
+      "id": "_6kok4h1m6spkcb9m84rkcb9k84qj2b9o88o34b9n84s3cdhg610jcghi68",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZrb2s0aDFtNnNwa2NiOW04NHJrY2I5azg0cWoyYjlvODhvMzRiOW44NHMzY2RoZzYxMGpjZ2hpNjggNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-10-04T06:46:03.000Z",
+      "updated": "2013-10-04T06:46:11.862Z",
+      "summary": "稍微備一下課(高中生解題系統)",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-10-04T18:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-10-04T19:15:00+08:00"
+      },
+      "iCalUID": "51BD673F-6A7F-4A51-8B02-7A86600A6B22",
+      "sequence": 3
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc2MTk3NzE0NDQ1MDAwMA\"",
+      "id": "_8d0jedpl88s32ba46ork4b9k70q3cb9o68r3eb9k60qkah1n6go32d1n6s",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzhkMGplZHBsODhzMzJiYTQ2b3JrNGI5azcwcTNjYjlvNjhyM2ViOWs2MHFrYWgxbjZnbzMyZDFuNnMgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-10-05T15:56:12.000Z",
+      "updated": "2013-10-05T15:56:12.225Z",
+      "summary": "台北偉文A班助教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-10-06T13:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-10-06T16:00:00+08:00"
+      },
+      "iCalUID": "CA775B81-D67B-4846-8267-405ED7401477",
+      "sequence": 1
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc2MjMxNzA4ODQ2NDAwMA\"",
+      "id": "_6krjih2370okcb9j8p23ab9k6gs30ba16crkcba38opjcga26cq44gi46k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZrcmppaDIzNzBva2NiOWo4cDIzYWI5azZnczMwYmExNmNya2NiYTM4b3BqY2dhMjZjcTQ0Z2k0NmsgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2013-10-07T06:16:06.000Z",
+      "updated": "2013-10-07T15:09:04.232Z",
+      "summary": "Contact C Language student to shfit class",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-10-08T17:15:00+08:00"
+      },
+      "end": {
+        "dateTime": "2013-10-08T17:30:00+08:00"
+      },
+      "iCalUID": "579DC81F-3FD5-4480-A37F-CF36AB34BBD5",
+      "sequence": 2
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc3NzQ4ODYxMjM5MjAwMA\"",
+      "id": "_6d13ed9i68pkaba46p2kcb9k6ssjaba284rjgb9n751j4e9k8cs4ahho88",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZkMTNlZDlpNjhwa2FiYTQ2cDJrY2I5azZzc2phYmEyODRyamdiOW43NTFqNGU5azhjczRhaGhvODggNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-01-03T08:40:05.000Z",
+      "updated": "2014-01-03T10:18:26.196Z",
+      "summary": "prepare C hometeach",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-01-03T18:45:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-01-03T19:15:00+08:00"
+      },
+      "iCalUID": "3B75223E-D6EF-4795-BA78-79C294C8EF8B",
+      "sequence": 5
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc3Nzg4MzU3NjU3NjAwMA\"",
+      "id": "_6d0jadi46l132b9h650k8b9k6cpkaba26l23cb9j691k4c1m612k4c9g8c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZkMGphZGk0NmwxMzJiOWg2NTBrOGI5azZjcGthYmEyNmwyM2NiOWo2OTFrNGMxbTYxMms0YzlnOGMgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-01-04T17:34:38.000Z",
+      "updated": "2014-01-05T17:09:48.288Z",
+      "summary": "微積分家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-01-06T18:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-01-06T20:30:00+08:00"
+      },
+      "iCalUID": "3A56D5B1-11AD-433E-B5D6-32CB060EB10C",
+      "sequence": 2
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4MDE5MzA0MjQxNDAwMA\"",
+      "id": "_88sj0e9j8op30ba160q3ib9k851j6b9p610k8b9h6kpj4c246sqjce1l68",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Xzg4c2owZTlqOG9wMzBiYTE2MHEzaWI5azg1MWo2YjlwNjEwazhiOWg2a3BqNGMyNDZzcWpjZTFsNjggNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-01-19T01:55:17.000Z",
+      "updated": "2014-01-19T01:55:21.207Z",
+      "summary": "小六弟C語言家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-01-24T19:45:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-01-24T21:15:00+08:00"
+      },
+      "iCalUID": "B9093F20-A049-4AC3-90AD-15320D756852",
+      "sequence": 2
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4MDc3NjEzMjE1NDAwMA\"",
+      "id": "_8kpkaghi8cr4ab9k84q42b9k6h2jib9p70ok6b9j692j2gpl74s48chh6k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzhrcGthZ2hpOGNyNGFiOWs4NHE0MmI5azZoMmppYjlwNzBvazZiOWo2OTJqMmdwbDc0czQ4Y2hoNmsgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-01-21T14:37:45.000Z",
+      "updated": "2014-01-22T10:54:26.077Z",
+      "summary": "北大微積分家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-02-15T09:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-02-15T17:00:00+08:00"
+      },
+      "iCalUID": "E3EB2C6E-4A4A-44E9-981C-32E1C598D215",
+      "sequence": 3
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4MTA2NzU3NDEwMjAwMA\"",
+      "id": "_6os32chm8kr42b9h84pk6b9k8kpk6ba168s3eb9l84oj0d1i8d334e9j6g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZvczMyY2htOGtyNDJiOWg4NHBrNmI5azhrcGs2YmExNjhzM2ViOWw4NG9qMGQxaThkMzM0ZTlqNmcgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-01-23T15:06:49.000Z",
+      "updated": "2014-01-24T03:23:07.051Z",
+      "summary": "台北偉文A班助教代班",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-01-25T18:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-01-25T21:00:00+08:00"
+      },
+      "iCalUID": "68126E6A-1A3C-4E3C-A287-5A1042CF2934",
+      "sequence": 2
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4MTA5NzM5NzU0MjAwMA\"",
+      "id": "_6kp4ae9l8kqjab9j6t1jeb9k6533eba28kr34b9o6oojggi68gqj0gi684",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZrcDRhZTlsOGtxamFiOWo2dDFqZWI5azY1MzNlYmEyOGtyMzRiOW82b29qZ2dpNjhncWowZ2k2ODQgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-01-21T14:38:11.000Z",
+      "updated": "2014-01-24T07:31:38.771Z",
+      "summary": "北大微積分家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-01-24T16:45:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-01-24T17:45:00+08:00"
+      },
+      "iCalUID": "52E95E55-37C7-41F7-BE62-8618BFD50BFA",
+      "sequence": 5
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4MTI1MzUzNDMyODAwMA\"",
+      "id": "_70q4cchi8l33gb9j8ko3ib9k88qk6b9p88r44b9o64r44chi6gs38c2160",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzcwcTRjY2hpOGwzM2diOWo4a28zaWI5azg4cWs2YjlwODhyNDRiOW82NHI0NGNoaTZnczM4YzIxNjBfMjAxNDAxMjVUMDEzMDAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2014-01-21T14:17:09.000Z",
+      "updated": "2014-01-25T05:12:47.164Z",
+      "summary": "北大微積分家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-01-25T09:30:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "end": {
+        "dateTime": "2014-01-25T17:00:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "recurrence": [
+        "EXDATE;TZID=Asia/Taipei:20140201T093000,20140208T093000",
+        "RRULE:FREQ=WEEKLY;COUNT=3;INTERVAL=1"
+      ],
+      "iCalUID": "84F22EF8-3E09-4B5C-9B6B-816B224840A0",
+      "sequence": 6
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4MzUwMjQ1NTkyNjAwMA\"",
+      "id": "_84rj8hi160p38ba160rjcb9k61134b9p8gp3cb9p60qk2dpg64p3cg9g6g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Xzg0cmo4aGkxNjBwMzhiYTE2MHJqY2I5azYxMTM0YjlwOGdwM2NiOXA2MHFrMmRwZzY0cDNjZzlnNmcgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-01-21T14:41:35.000Z",
+      "updated": "2014-02-07T05:33:47.963Z",
+      "summary": "北大微積分家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-02-07T09:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-02-07T16:30:00+08:00"
+      },
+      "iCalUID": "A74FA024-A076-40B2-9D26-905A70126A04",
+      "sequence": 2
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4NDAxNTQ3NzI3NDAwMA\"",
+      "id": "_84ojeghg74sjgb9p6sq46b9k8orj0ba28gskab9h8d0j4c268d0jghi46c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Xzg0b2plZ2hnNzRzamdiOXA2c3E0NmI5azhvcmowYmEyOGdza2FiOWg4ZDBqNGMyNjhkMGpnaGk0NmMgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-02-10T04:47:19.000Z",
+      "updated": "2014-02-10T04:48:58.637Z",
+      "summary": "北大微積分家教@北車",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Huang Wilson"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-02-11T15:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-02-11T17:30:00+08:00"
+      },
+      "iCalUID": "A17B0998-974C-4F70-BD9E-1CA20FCA8FD3",
+      "sequence": 2
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4NDAxNTUwMjIzMDAwMA\"",
+      "id": "_6t0kac9g752j4b9g6gpk4b9k8cs4cba18h336ba16oqj8hhm88sjegpm8o",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0MGthYzlnNzUyajRiOWc2Z3BrNGI5azhjczRjYmExOGgzMzZiYTE2b3FqOGhobTg4c2plZ3BtOG8gNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-01-21T14:41:18.000Z",
+      "updated": "2014-02-10T04:49:11.115Z",
+      "summary": "北大微積分家教@北車",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-02-10T14:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-02-10T17:30:00+08:00"
+      },
+      "iCalUID": "7AE109E2-043B-4C8F-ADF3-A654F6B97C6F",
+      "sequence": 9
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4NDI1OTYxODUzNDAwMA\"",
+      "id": "_8d248c1g60s48ba66p2j6b9k84r30b9p8cpj2ba46t1j0g9k68rjigpk8o",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzhkMjQ4YzFnNjBzNDhiYTY2cDJqNmI5azg0cjMwYjlwOGNwajJiYTQ2dDFqMGc5azY4cmppZ3BrOG8gNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-02-11T14:43:28.000Z",
+      "updated": "2014-02-11T14:43:29.267Z",
+      "summary": "寫102研究所考古詳解",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Huang Wilson"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-02-12T16:45:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-02-12T18:00:00+08:00"
+      },
+      "iCalUID": "CDD0008D-F6E3-4A60-9C31-D7C0A4279C4F",
+      "sequence": 1
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4NDI2MzY0NTA3NDAwMA\"",
+      "id": "_6h2j4gpi892k4ba660oj0b9k8gr36ba26t1kab9h6d132e1h6913ae9o60",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZoMmo0Z3BpODkyazRiYTY2MG9qMGI5azhncjM2YmEyNnQxa2FiOWg2ZDEzMmUxaDY5MTNhZTlvNjAgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-02-11T15:17:02.000Z",
+      "updated": "2014-02-11T15:17:02.537Z",
+      "summary": "台北偉文A班助教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Huang Wilson"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-02-15T18:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-02-15T21:00:00+08:00"
+      },
+      "iCalUID": "4E2C2BEB-F010-4D63-B7CE-13B1812B5980",
+      "sequence": 1
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4NTA3ODA0MjAwNjAwMA\"",
+      "id": "_8gq4ah1j88q36b9j70o44b9k6cokab9o8l1j4ba564s3eg9p6kqj8cq36o",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzhncTRhaDFqODhxMzZiOWo3MG80NGI5azZjb2thYjlvOGwxajRiYTU2NHMzZWc5cDZrcWo4Y3EzNm9fMjAxMzEyMDNUMTAzMDAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2013-12-09T07:00:14.000Z",
+      "updated": "2014-02-16T08:23:41.003Z",
+      "summary": "微積分家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-12-03T18:30:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "end": {
+        "dateTime": "2013-12-03T20:30:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "recurrence": [
+        "EXDATE;TZID=Asia/Taipei:20140107T183000,20140211T183000",
+        "RRULE:FREQ=WEEKLY;COUNT=11"
+      ],
+      "iCalUID": "D4ED3B43-380B-431E-8EC2-E187A95543C6",
+      "sequence": 6,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4NTA3ODA0NDI3MjAwMA\"",
+      "id": "_8gq4ah1j88q36b9j70o44b9k6cokab9o8l1j4ba564s3eg9p6kqj8cq36o_20140128T103000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzhncTRhaDFqODhxMzZiOWo3MG80NGI5azZjb2thYjlvOGwxajRiYTU2NHMzZWc5cDZrcWo4Y3EzNm9fMjAxNDAxMjhUMTAzMDAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2013-12-09T07:00:14.000Z",
+      "updated": "2014-02-16T08:23:42.136Z",
+      "summary": "微積分家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-01-28T17:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-01-28T20:00:00+08:00"
+      },
+      "recurringEventId": "_8gq4ah1j88q36b9j70o44b9k6cokab9o8l1j4ba564s3eg9p6kqj8cq36o",
+      "originalStartTime": {
+        "dateTime": "2014-01-28T18:30:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "iCalUID": "D4ED3B43-380B-431E-8EC2-E187A95543C6",
+      "sequence": 7,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4NTA3ODA0NDQ3ODAwMA\"",
+      "id": "_8gq4ah1j88q36b9j70o44b9k6cokab9o8l1j4ba564s3eg9p6kqj8cq36o_20140121T103000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzhncTRhaDFqODhxMzZiOWo3MG80NGI5azZjb2thYjlvOGwxajRiYTU2NHMzZWc5cDZrcWo4Y3EzNm9fMjAxNDAxMjFUMTAzMDAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2013-12-09T07:00:14.000Z",
+      "updated": "2014-02-16T08:23:42.239Z",
+      "summary": "微積分家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-01-23T17:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-01-23T19:30:00+08:00"
+      },
+      "recurringEventId": "_8gq4ah1j88q36b9j70o44b9k6cokab9o8l1j4ba564s3eg9p6kqj8cq36o",
+      "originalStartTime": {
+        "dateTime": "2014-01-21T18:30:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "iCalUID": "D4ED3B43-380B-431E-8EC2-E187A95543C6",
+      "sequence": 6,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4NTA3ODA0NDY5NDAwMA\"",
+      "id": "_8gq4ah1j88q36b9j70o44b9k6cokab9o8l1j4ba564s3eg9p6kqj8cq36o_20140114T103000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzhncTRhaDFqODhxMzZiOWo3MG80NGI5azZjb2thYjlvOGwxajRiYTU2NHMzZWc5cDZrcWo4Y3EzNm9fMjAxNDAxMTRUMTAzMDAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2013-12-09T07:00:14.000Z",
+      "updated": "2014-02-16T08:23:42.347Z",
+      "summary": "微積分家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-01-14T17:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-01-14T19:30:00+08:00"
+      },
+      "recurringEventId": "_8gq4ah1j88q36b9j70o44b9k6cokab9o8l1j4ba564s3eg9p6kqj8cq36o",
+      "originalStartTime": {
+        "dateTime": "2014-01-14T18:30:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "iCalUID": "D4ED3B43-380B-431E-8EC2-E187A95543C6",
+      "sequence": 6,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4NTA3ODA0NDkxMjAwMA\"",
+      "id": "_8gq4ah1j88q36b9j70o44b9k6cokab9o8l1j4ba564s3eg9p6kqj8cq36o_20140204T103000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzhncTRhaDFqODhxMzZiOWo3MG80NGI5azZjb2thYjlvOGwxajRiYTU2NHMzZWc5cDZrcWo4Y3EzNm9fMjAxNDAyMDRUMTAzMDAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2013-12-09T07:00:14.000Z",
+      "updated": "2014-02-16T08:23:42.456Z",
+      "summary": "微積分家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-02-07T19:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-02-07T21:00:00+08:00"
+      },
+      "recurringEventId": "_8gq4ah1j88q36b9j70o44b9k6cokab9o8l1j4ba564s3eg9p6kqj8cq36o",
+      "originalStartTime": {
+        "dateTime": "2014-02-04T18:30:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "iCalUID": "D4ED3B43-380B-431E-8EC2-E187A95543C6",
+      "sequence": 8,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4NTU0NTgzMjg1MjAwMA\"",
+      "id": "_6d1jihi368qk8b9l85244b9k6l242b9p89344b9l6ko3ahhn60rjch2188",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZkMWppaGkzNjhxazhiOWw4NTI0NGI5azZsMjQyYjlwODkzNDRiOWw2a28zYWhobjYwcmpjaDIxODhfMjAxNDAyMThUMTAzMDAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2014-02-16T08:23:43.000Z",
+      "updated": "2014-02-19T01:21:56.426Z",
+      "summary": "孟潔家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Huang Wilson"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-02-18T18:30:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "end": {
+        "dateTime": "2014-02-18T20:30:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "recurrence": [
+        "RRULE:FREQ=WEEKLY;COUNT=1"
+      ],
+      "iCalUID": "3C9FC25D-5ADB-45DA-9BFB-5505F7076DAB",
+      "sequence": 8,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4NjY3MTgwMzk5MDAwMA\"",
+      "id": "_69142gpl70s3cb9l68r32b9k8p23gb9p84pk2ba38co38d9j8op44c1g6s",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzY5MTQyZ3BsNzBzM2NiOWw2OHIzMmI5azhwMjNnYjlwODRwazJiYTM4Y28zOGQ5ajhvcDQ0YzFnNnMgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-02-24T15:56:38.000Z",
+      "updated": "2014-02-25T13:45:01.995Z",
+      "summary": "小六弟C語言家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Huang Wilson"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-03-04T19:15:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-03-04T20:45:00+08:00"
+      },
+      "iCalUID": "2BAC5886-5261-4FD8-9A3A-CC0453F2B007",
+      "sequence": 2
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4ODY4MTY5MzIyMjAwMA\"",
+      "id": "_8p23achi74rk8b9l890j0b9k6514cba16h33cb9l8d1kcdhn88r3ic9k70",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzhwMjNhY2hpNzRyazhiOWw4OTBqMGI5azY1MTRjYmExNmgzM2NiOWw4ZDFrY2Robjg4cjNpYzlrNzAgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-03-08T07:10:18.000Z",
+      "updated": "2014-03-09T04:54:06.611Z",
+      "summary": "台北偉文A班助教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-03-09T13:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-03-09T16:30:00+08:00"
+      },
+      "iCalUID": "FD52297D-5BA0-41BF-A4F6-5CCF67B69148",
+      "sequence": 3
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4OTI4NzA4NzI0ODAwMA\"",
+      "id": "_88r4cg9j6gpk2b9j8op4ab9k65330b9p60o3cb9l8kr3igi68cs48h248k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Xzg4cjRjZzlqNmdwazJiOWo4b3A0YWI5azY1MzMwYjlwNjBvM2NiOWw4a3IzaWdpNjhjczQ4aDI0OGsgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-03-12T16:59:02.000Z",
+      "updated": "2014-03-12T16:59:03.624Z",
+      "summary": "出微積分考卷",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-03-13T17:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-03-13T18:00:00+08:00"
+      },
+      "iCalUID": "B6FA343A-3F2E-41F0-9006-5E69BFC8DDDE",
+      "sequence": 1
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4OTQwNTQ5NTg3ODAwMA\"",
+      "id": "_6oqjedpk6l144ba28p1j0b9k612k4b9o8gqjeba28csjagpl84ojah2670",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZvcWplZHBrNmwxNDRiYTI4cDFqMGI5azYxMms0YjlvOGdxamViYTI4Y3NqYWdwbDg0b2phaDI2NzAgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-03-13T09:25:33.000Z",
+      "updated": "2014-03-13T09:25:47.939Z",
+      "summary": "倍旻家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-03-15T09:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-03-15T12:30:00+08:00"
+      },
+      "iCalUID": "657745BB-BFC0-40EB-8D57-BC95C5A15DF8",
+      "sequence": 5
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc4OTYyNzY5MDYyNjAwMA\"",
+      "id": "_610j8cq38h2k6b9j8d2j4b9k6p244b9p6go34ba374o42c1p6d0k4gpl70",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzYxMGo4Y3EzOGgyazZiOWo4ZDJqNGI5azZwMjQ0YjlwNmdvMzRiYTM3NG80MmMxcDZkMGs0Z3BsNzAgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-03-14T16:17:20.000Z",
+      "updated": "2014-03-14T16:17:25.313Z",
+      "summary": "台北偉文A班助教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-03-16T13:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-03-16T16:30:00+08:00"
+      },
+      "iCalUID": "0A43CDEC-3CE2-46DB-9402-C90A093ABC58",
+      "sequence": 3
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc5MDQ4OTQwMDA5MjAwMA\"",
+      "id": "_84o46gpk691jeba268sk4b9k8p238b9p68sj2b9g8grjcdpk70pjgcq46s",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Xzg0bzQ2Z3BrNjkxamViYTI2OHNrNGI5azhwMjM4YjlwNjhzajJiOWc4Z3JqY2RwazcwcGpnY3E0NnMgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-03-19T15:58:19.000Z",
+      "updated": "2014-03-19T15:58:20.046Z",
+      "summary": "出+印考卷",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-03-20T17:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-03-20T18:00:00+08:00"
+      },
+      "iCalUID": "A0CC42C7-B29B-4FD4-9291-0D76748383D7",
+      "sequence": 1
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc5MzU4MTYyMTgyMDAwMA\"",
+      "id": "_70qkcg9j68skab9n68p42b9k611k2ba26h0j6b9j68ok6chk8kpkchhm68",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzcwcWtjZzlqNjhza2FiOW42OHA0MmI5azYxMWsyYmEyNmgwajZiOWo2OG9rNmNoazhrcGtjaGhtNjggNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-04-06T13:26:50.000Z",
+      "updated": "2014-04-06T13:26:50.910Z",
+      "summary": "Review 台大微甲家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-04-06T21:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-04-06T22:00:00+08:00"
+      },
+      "iCalUID": "85FA329E-722A-40CA-B4A3-321C24E3FF62",
+      "sequence": 1
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc5MzcyMzYwOTg0ODAwMA\"",
+      "id": "_8d344h9n70p3iba46513gb9k6h146ba26gqjgba68koj4da674s48d238g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzhkMzQ0aDluNzBwM2liYTQ2NTEzZ2I5azZoMTQ2YmEyNmdxamdiYTY4a29qNGRhNjc0czQ4ZDIzOGcgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-04-07T09:10:04.000Z",
+      "updated": "2014-04-07T09:10:04.924Z",
+      "summary": "寫倍旻家教微積分習題詳解",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-04-07T16:45:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-04-07T17:00:00+08:00"
+      },
+      "iCalUID": "CFBE7829-D1B8-44BC-B458-FE125F98D4CD",
+      "sequence": 1
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc5Mzg5NTg2MDY3MjAwMA\"",
+      "id": "_84skadhj8h2k4b9l74q4cb9k60o3iba18crk2b9m8gqjchho8h33eh1h8k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Xzg0c2thZGhqOGgyazRiOWw3NHE0Y2I5azYwbzNpYmExOGNyazJiOW04Z3FqY2hobzhoMzNlaDFoOGsgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-04-06T16:41:25.000Z",
+      "updated": "2014-04-08T09:05:30.336Z",
+      "summary": "出C語言家教HW1",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-04-08T16:15:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-04-08T17:15:00+08:00"
+      },
+      "iCalUID": "A9E63DEB-594F-4009-AC7A-6D56F8DF7D1E",
+      "sequence": 15
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc5NzI0MjAwMTAzMDAwMA\"",
+      "id": "_84r3gga26h2j2ba26gq34b9k6l33gba18gp48ba28ksk2d9l60ojegpj74",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Xzg0cjNnZ2EyNmgyajJiYTI2Z3EzNGI5azZsMzNnYmExOGdwNDhiYTI4a3NrMmQ5bDYwb2plZ3BqNzQgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-04-27T17:50:00.000Z",
+      "updated": "2014-04-27T17:50:00.515Z",
+      "summary": "寫case 初版UI",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-04-28T12:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-04-28T15:30:00+08:00"
+      },
+      "iCalUID": "A68AB4E1-B442-45F8-AD2D-BE9A55017C39",
+      "sequence": 1
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc5NzUwOTkxOTYxMDAwMA\"",
+      "id": "_6oo3cgph88q36b9i8p1j6b9k8d13eba169236b9p6grj8c9l6krjah1n88",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZvbzNjZ3BoODhxMzZiOWk4cDFqNmI5azhkMTNlYmExNjkyMzZiOXA2Z3JqOGM5bDZrcmphaDFuODggNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-04-29T07:02:27.000Z",
+      "updated": "2014-04-29T07:02:39.805Z",
+      "summary": "台北偉文A班助教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-04-29T18:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-04-29T21:00:00+08:00"
+      },
+      "iCalUID": "606C1B43-2FC3-4CB7-A2D3-947415575D7B",
+      "sequence": 2
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc5ODA2MjgzNjc5ODAwMA\"",
+      "id": "_6ks3ahhh6kr3ab9p6oqk2b9k6kp42ba160skaba36sskch9g690j8ci18g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZrczNhaGhoNmtyM2FiOXA2b3FrMmI5azZrcDQyYmExNjBza2FiYTM2c3NrY2g5ZzY5MGo4Y2kxOGdfMjAxMzEwMDRUMTE0NTAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2013-10-03T15:45:13.000Z",
+      "updated": "2014-05-02T11:50:18.399Z",
+      "summary": "小六弟C語言家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-10-04T19:45:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "end": {
+        "dateTime": "2013-10-04T21:15:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "recurrence": [
+        "EXDATE;TZID=Asia/Taipei:20131025T194500,20131220T194500,20131227T194500,20140124T194500,20140131T194500,20140207T194500,20140221T194500,20140228T194500,20140307T194500",
+        "RRULE:FREQ=WEEKLY;COUNT=31;BYDAY=FR"
+      ],
+      "iCalUID": "585F1565-965A-452A-A09E-C79FE02A42AD",
+      "sequence": 3,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc5ODA2MjgzNzAxNjAwMA\"",
+      "id": "_6ks3ahhh6kr3ab9p6oqk2b9k6kp42ba160skaba36sskch9g690j8ci18g_20140117T114500Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZrczNhaGhoNmtyM2FiOXA2b3FrMmI5azZrcDQyYmExNjBza2FiYTM2c3NrY2g5ZzY5MGo4Y2kxOGdfMjAxNDAxMTdUMTE0NTAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2013-10-03T15:45:13.000Z",
+      "updated": "2014-05-02T11:50:18.508Z",
+      "summary": "小六弟C語言家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-01-20T19:45:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-01-20T21:15:00+08:00"
+      },
+      "recurringEventId": "_6ks3ahhh6kr3ab9p6oqk2b9k6kp42ba160skaba36sskch9g690j8ci18g",
+      "originalStartTime": {
+        "dateTime": "2014-01-17T19:45:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "iCalUID": "585F1565-965A-452A-A09E-C79FE02A42AD",
+      "sequence": 4,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc5ODA4NDEyNTA1MDAwMA\"",
+      "id": "_8d246e9i6sr32b9l6113gb9k6t0jib9p692j0b9l89146c1k6d33edhi6g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzhkMjQ2ZTlpNnNyMzJiOWw2MTEzZ2I5azZ0MGppYjlwNjkyajBiOWw4OTE0NmMxazZkMzNlZGhpNmcgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-05-02T14:47:40.000Z",
+      "updated": "2014-05-02T14:47:42.525Z",
+      "summary": "討論PCCase",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-05-03T10:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-05-03T12:00:00+08:00"
+      },
+      "iCalUID": "CDC92761-50B8-47A9-92E0-5BBC043F7624",
+      "sequence": 1
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc5OTc1MjAwOTk5NjAwMA\"",
+      "id": "_8p23gdhj8gq42ba26l13cb9k6kqkaba260oj4ba56gqk6ha56l2k4ghh88",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzhwMjNnZGhqOGdxNDJiYTI2bDEzY2I5azZrcWthYmEyNjBvajRiYTU2Z3FrNmhhNTZsMms0Z2hoODggNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-05-12T06:26:42.000Z",
+      "updated": "2014-05-12T06:26:44.998Z",
+      "summary": "出小六弟hw2",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-05-12T17:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-05-12T18:30:00+08:00"
+      },
+      "iCalUID": "FD863D4A-B5B6-455E-B012-E45CEE5EBB1B",
+      "sequence": 1
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/Mjc5OTgwMDk4MDA5MjAwMA\"",
+      "id": "_6t138gq5690j6b9k6l1k2b9k8gpjeba28orj4b9o8kp34ca268qjacq38k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0MTM4Z3E1NjkwajZiOWs2bDFrMmI5azhncGplYmEyOG9yajRiOW84a3AzNGNhMjY4cWphY3EzOGsgNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-05-12T13:14:47.000Z",
+      "updated": "2014-05-12T13:14:50.046Z",
+      "summary": "討論PCcase",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-05-12T21:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-05-12T22:00:00+08:00"
+      },
+      "iCalUID": "7B4CE2A3-45CA-4D37-BF72-8E221B2553CE",
+      "sequence": 2
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjgwMDQ1OTk4MTQ2MDAwMA\"",
+      "id": "_6l0k8e1l8p33eb9k8l2j0b9k89230ba160q30b9n8csj4d1j6os42gi66s",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZsMGs4ZTFsOHAzM2ViOWs4bDJqMGI5azg5MjMwYmExNjBxMzBiOW44Y3NqNGQxajZvczQyZ2k2NnNfMjAxNDAyMjBUMTA0MDAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2014-02-16T08:23:31.000Z",
+      "updated": "2014-05-16T08:46:30.730Z",
+      "summary": "倍旻家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Huang Wilson"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-02-20T18:40:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "end": {
+        "dateTime": "2014-02-20T21:40:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "recurrence": [
+        "EXDATE;TZID=Asia/Taipei:20140313T184000,20140417T184000,20140424T184000,20140522T184000",
+        "RRULE:FREQ=WEEKLY;COUNT=18"
+      ],
+      "iCalUID": "5AD85FF7-4EE0-4BD0-A040-7C924368ABF7",
+      "sequence": 6
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjgwMDQ1OTk4MjgyODAwMA\"",
+      "id": "_6l0k8e1l8p33eb9k8l2j0b9k89230ba160q30b9n8csj4d1j6os42gi66s_20140227T104000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZsMGs4ZTFsOHAzM2ViOWs4bDJqMGI5azg5MjMwYmExNjBxMzBiOW44Y3NqNGQxajZvczQyZ2k2NnNfMjAxNDAyMjdUMTA0MDAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2014-02-16T08:23:31.000Z",
+      "updated": "2014-05-16T08:46:31.414Z",
+      "summary": "倍旻家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Huang Wilson"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-03-01T09:30:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-03-01T12:30:00+08:00"
+      },
+      "recurringEventId": "_6l0k8e1l8p33eb9k8l2j0b9k89230ba160q30b9n8csj4d1j6os42gi66s",
+      "originalStartTime": {
+        "dateTime": "2014-02-27T18:40:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "iCalUID": "5AD85FF7-4EE0-4BD0-A040-7C924368ABF7",
+      "sequence": 11
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjgwMDQ1OTk4MzA1NjAwMA\"",
+      "id": "_6l0k8e1l8p33eb9k8l2j0b9k89230ba160q30b9n8csj4d1j6os42gi66s_20140410T104000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZsMGs4ZTFsOHAzM2ViOWs4bDJqMGI5azg5MjMwYmExNjBxMzBiOW44Y3NqNGQxajZvczQyZ2k2NnNfMjAxNDA0MTBUMTA0MDAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2014-02-16T08:23:31.000Z",
+      "updated": "2014-05-16T08:46:31.528Z",
+      "summary": "倍旻家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Huang Wilson"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-04-12T09:10:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-04-12T12:10:00+08:00"
+      },
+      "recurringEventId": "_6l0k8e1l8p33eb9k8l2j0b9k89230ba160q30b9n8csj4d1j6os42gi66s",
+      "originalStartTime": {
+        "dateTime": "2014-04-10T18:40:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "iCalUID": "5AD85FF7-4EE0-4BD0-A040-7C924368ABF7",
+      "sequence": 9
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjgwMDQ1OTk4MzMyMDAwMA\"",
+      "id": "_6l0k8e1l8p33eb9k8l2j0b9k89230ba160q30b9n8csj4d1j6os42gi66s_20140508T104000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZsMGs4ZTFsOHAzM2ViOWs4bDJqMGI5azg5MjMwYmExNjBxMzBiOW44Y3NqNGQxajZvczQyZ2k2NnNfMjAxNDA1MDhUMTA0MDAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2014-02-16T08:23:31.000Z",
+      "updated": "2014-05-16T08:46:31.660Z",
+      "summary": "倍旻家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Huang Wilson"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-05-11T13:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-05-11T16:00:00+08:00"
+      },
+      "recurringEventId": "_6l0k8e1l8p33eb9k8l2j0b9k89230ba160q30b9n8csj4d1j6os42gi66s",
+      "originalStartTime": {
+        "dateTime": "2014-05-08T18:40:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "iCalUID": "5AD85FF7-4EE0-4BD0-A040-7C924368ABF7",
+      "sequence": 12
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjgwMDQ1OTk4MzU5ODAwMA\"",
+      "id": "_6l0k8e1l8p33eb9k8l2j0b9k89230ba160q30b9n8csj4d1j6os42gi66s_20140327T104000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZsMGs4ZTFsOHAzM2ViOWs4bDJqMGI5azg5MjMwYmExNjBxMzBiOW44Y3NqNGQxajZvczQyZ2k2NnNfMjAxNDAzMjdUMTA0MDAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2014-02-16T08:23:31.000Z",
+      "updated": "2014-05-16T08:46:31.799Z",
+      "summary": "倍旻家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Huang Wilson"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-03-29T08:55:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-03-29T11:55:00+08:00"
+      },
+      "recurringEventId": "_6l0k8e1l8p33eb9k8l2j0b9k89230ba160q30b9n8csj4d1j6os42gi66s",
+      "originalStartTime": {
+        "dateTime": "2014-03-27T18:40:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "iCalUID": "5AD85FF7-4EE0-4BD0-A040-7C924368ABF7",
+      "sequence": 8
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjgwMTE3MjcxMDQ2ODAwMA\"",
+      "id": "_88o38dpo710jeb9j8op48b9k8krjaba28ksjab9k8d23cc1g8h33ah1n68",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Xzg4bzM4ZHBvNzEwamViOWo4b3A0OGI5azhrcmphYmEyOGtzamFiOWs4ZDIzY2MxZzhoMzNhaDFuNjhfMjAxNDA0MjlUMTE0NTAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2014-04-27T14:57:51.000Z",
+      "updated": "2014-05-20T11:45:55.234Z",
+      "summary": "小六弟C語言家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-04-29T19:45:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "end": {
+        "dateTime": "2014-04-29T21:15:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "recurrence": [
+        "EXDATE;TZID=Asia/Taipei:20140429T194500",
+        "RRULE:FREQ=WEEKLY;COUNT=10"
+      ],
+      "iCalUID": "B04788A7-3F2D-4E75-BE95-4CD600DF5D72",
+      "sequence": 4
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjgwMTM2NjY5MTExMjAwMA\"",
+      "id": "_70p36h9i8l1jaba48p0j6b9k88r30ba268rjaba26so42c25750j0d1h8g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzcwcDM2aDlpOGwxamFiYTQ4cDBqNmI5azg4cjMwYmEyNjhyamFiYTI2c280MmMyNTc1MGowZDFoOGdfMjAxMzEwMDJUMTAwMDAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2013-09-30T14:18:26.000Z",
+      "updated": "2014-05-21T14:42:25.556Z",
+      "summary": "台北偉文A班助教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2013-10-02T18:00:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "end": {
+        "dateTime": "2013-10-02T21:00:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "recurrence": [
+        "EXDATE;TZID=Asia/Taipei:20131009T180000,20131127T180000,20140129T180000,20140205T180000,20140423T180000",
+        "RRULE:FREQ=WEEKLY;UNTIL=20140701T155959Z"
+      ],
+      "iCalUID": "823E2EC5-DFA3-4B60-B275-B70A0E9A041D",
+      "sequence": 6,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjgwMTM2NjY5MzY4MjAwMA\"",
+      "id": "_70p36h9i8l1jaba48p0j6b9k88r30ba268rjaba26so42c25750j0d1h8g_20140226T100000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzcwcDM2aDlpOGwxamFiYTQ4cDBqNmI5azg4cjMwYmEyNjhyamFiYTI2c280MmMyNTc1MGowZDFoOGdfMjAxNDAyMjZUMTAwMDAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2013-09-30T14:18:26.000Z",
+      "updated": "2014-05-21T14:42:26.841Z",
+      "summary": "台北偉文A班助教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-02-25T18:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-02-25T21:00:00+08:00"
+      },
+      "recurringEventId": "_70p36h9i8l1jaba48p0j6b9k88r30ba268rjaba26so42c25750j0d1h8g",
+      "originalStartTime": {
+        "dateTime": "2014-02-26T18:00:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "iCalUID": "823E2EC5-DFA3-4B60-B275-B70A0E9A041D",
+      "sequence": 7,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjgwMTM2NjY5NjAxNDAwMA\"",
+      "id": "_70p36h9i8l1jaba48p0j6b9k88r30ba268rjaba26so42c25750j0d1h8g_20140416T100000Z",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzcwcDM2aDlpOGwxamFiYTQ4cDBqNmI5azg4cjMwYmEyNjhyamFiYTI2c280MmMyNTc1MGowZDFoOGdfMjAxNDA0MTZUMTAwMDAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2013-09-30T14:18:26.000Z",
+      "updated": "2014-05-21T14:42:28.007Z",
+      "summary": "台北偉文A班助教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "黃亟"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-04-15T18:00:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-04-15T21:00:00+08:00"
+      },
+      "recurringEventId": "_70p36h9i8l1jaba48p0j6b9k88r30ba268rjaba26so42c25750j0d1h8g",
+      "originalStartTime": {
+        "dateTime": "2014-04-16T18:00:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "iCalUID": "823E2EC5-DFA3-4B60-B275-B70A0E9A041D",
+      "sequence": 7,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjgwMTQ5OTYzNTU2MDAwMA\"",
+      "id": "_8co3eh1m691k6ba374p48b9k68rj2b9p8os3cb9m8cr3eh1o891j8h1o64",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzhjbzNlaDFtNjkxazZiYTM3NHA0OGI5azY4cmoyYjlwOG9zM2NiOW04Y3IzZWgxbzg5MWo4aDFvNjRfMjAxNDA1MDlUMTE0NTAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2014-05-02T14:30:05.000Z",
+      "updated": "2014-05-22T09:10:17.780Z",
+      "summary": "小六弟C語言家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-05-09T19:45:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "end": {
+        "dateTime": "2014-05-09T21:15:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "recurrence": [
+        "EXDATE;TZID=Asia/Taipei:20140523T194500",
+        "RRULE:FREQ=WEEKLY;COUNT=10;INTERVAL=1"
+      ],
+      "iCalUID": "C07D62CC-C92D-4271-9F86-6C67D8BC4D81",
+      "sequence": 4
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjgwMTUwMDExMjY4MDAwMA\"",
+      "id": "_70rj6da560rj2b9o8cskcb9k6srjab9p651jcb9o8cpkagho65234gi16c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Xzcwcmo2ZGE1NjByajJiOW84Y3NrY2I5azZzcmphYjlwNjUxamNiOW84Y3BrYWdobzY1MjM0Z2kxNmNfMjAxNDA0MDlUMDIwMDAwWiA2ZmRubG81NTQ4MjJpOTQ5cmo0NGFxYWZpa0Bn",
+      "created": "2014-04-03T05:48:44.000Z",
+      "updated": "2014-05-22T09:14:16.340Z",
+      "summary": "台大微甲家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-04-09T10:00:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "end": {
+        "dateTime": "2014-04-09T12:00:00+08:00",
+        "timeZone": "Asia/Taipei"
+      },
+      "recurrence": [
+        "EXDATE;TZID=Asia/Taipei:20140423T100000,20140507T100000",
+        "RRULE:FREQ=WEEKLY;COUNT=10"
+      ],
+      "iCalUID": "8735E071-8C9F-4775-91C6-8C3EB81D2BA3",
+      "sequence": 4,
+      "guestsCanSeeOtherGuests": false
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"lALbFE98s88NEFGE7rntyxNtHBY/MjgwMTU1NjgyMjUzODAwMA\"",
+      "id": "_6oojgca56h2j0ba68l0k8b9k6p248ba28cpjib9o6crk2ea360rk8da268",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzZvb2pnY2E1NmgyajBiYTY4bDBrOGI5azZwMjQ4YmEyOGNwamliOW82Y3JrMmVhMzYwcms4ZGEyNjggNmZkbmxvNTU0ODIyaTk0OXJqNDRhcWFmaWtAZw",
+      "created": "2014-05-22T08:59:05.000Z",
+      "updated": "2014-05-22T17:06:51.269Z",
+      "summary": "倍旻家教",
+      "creator": {
+        "email": "a1345962293@gmail.com",
+        "displayName": "Wilson Huang"
+      },
+      "organizer": {
+        "email": "6fdnlo554822i949rj44aqafik@group.calendar.google.com",
+        "displayName": "Jobs",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2014-05-22T18:40:00+08:00"
+      },
+      "end": {
+        "dateTime": "2014-05-22T21:40:00+08:00"
+      },
+      "iCalUID": "6181E4E0-FEAD-46DD-BC39-837A9C07D5B2",
+      "sequence": 1
+    }
+  ]
+}

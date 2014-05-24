@@ -1,0 +1,124 @@
+table,th,td
+{
+border:1px;
+background: #DCDCDC;
+margin-left:70px;
+margin-right:170px;
+
+/*filter:alpha(opacity=70);opacity:0.7;zoom:1;*/
+}
+input#domain{
+    width: 270px;
+    height: 60px;
+}
+input#search{
+    width: 180px;
+    height: 60px;
+}
+input#email, input#name, input#password, input#phone{
+    height: 40px;
+    border-radius: 4px;
+}
+
+input#term{
+    height: 60px;
+}
+
+input#dns{
+    height: 60px;
+    width: 350px;
+}
+input#search, button.btn{
+    background: url(../images/icon-arrow-right.png) no-repeat 154px 22px #b1d95c;
+    border: none;
+    -webkit-border-top-right-radius: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    -moz-border-radius-bottomright: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    position: relative;
+    left: -5px;
+    height: 60px;
+    width: 180px;
+    font-size: 19px;
+    margin: 0px;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    color: #fff;
+    padding-right: 20px;
+}
+span.button.linkAddToCart:hover {
+  color: #3a87ad;
+  text-decoration: underline;
+}
+
+span.button.linkAddToCart {
+  color: #b94a48;
+}
+input#term{
+    height:30px;
+    width: 100px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+input#cartUserName, input#cartUserPS, input#Store,input#SignUpMAIL, input#SignUpPW, input#newName, input#newPhone{
+    height: 45px;
+    width: 270px;
+}
+#registerTab, #signinTab{
+display: inline-block;
+width: 50%;
+height: 45px;
+text-align: center;
+}
+#expressReg, #defaultReg{
+    display: inline-table;
+}
+
+/* checkout page*/
+div.progress1{
+    display: inline-block;
+    float: middle;
+    margin-left: 30%;
+    height:30px;
+    width:30px;
+    background-color: white;
+    border-radius:50px;
+}
+p.progress1{
+    display: inline-block;
+    margin-left: 30%;
+}
+div.progress2{
+    display: inline-block;
+    float: middle;
+    margin-left: 10%;
+    height:30px;
+    width:30px;
+    background-color: white;
+    border-radius:50px;
+}
+p.progress2{
+    display: inline-block;
+    margin-left: 10%;
+}
+div.progress3{
+    display: inline-block;
+    float: middle;
+    margin-left: 10%;
+    height:30px;
+    width:30px;
+    background-color: white;
+    border-radius:50px;
+}
+p.progress3{
+    display: inline-block;
+    margin-left: 10%;
+}
+button#expressReg{
+    margin-right:20%;
+}
