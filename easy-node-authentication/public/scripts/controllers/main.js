@@ -29,7 +29,7 @@ angular.module('calenshareApp')
 
     $http.get('https://www.googleapis.com/calendar/v3/calendars/' +
               calendar_id +
-              '/events?singleEvents=true&orderBy=startTime&key=AIzaSyBQal2rNhP5SRkU5hZytY7Yb8nYc5Q1nrc').success(function(response){
+              '/events?maxResults=2500&key=AIzaSyBQal2rNhP5SRkU5hZytY7Yb8nYc5Q1nrc').success(function(response){
       var events = response.items.map(function(event){
         return {
           id: event.id,
