@@ -1,7 +1,14 @@
+//var User1 = require('./models/user');
+require('./models/user');
+
 module.exports = function(app, passport) {
+	//var User1 = User;
+	// var mongoose = require('mongoose');
+	// mongoose.connect('mongodb://localhost:27017/robotserver');
+	// var users = mongoose.model('users', { name: String });
 
 // normal routes ===============================================================
-
+	var calID;
 	// show the home page (will also have our login links)
 	app.get('/', function(req, res) {
 		res.render('index.ejs');
@@ -14,12 +21,34 @@ module.exports = function(app, passport) {
 		});
 	});
 
+	app.post('/hahaCalID',function(req, res){
+		calID = req.body.calendarID;
+	})
+	// app.post('/profile', function(req, res){
+	// 	console.log(req.body);
+	// 	console.log("id: " + req.body.calendarID);
+	// 	var newUser = new User();
+	// 	newUser.findOne({email: req.user.local.email}, function(err, one){
+	// 		if(err)
+	// 			alert("ahah~");
+	// 		one.local.calendarID = req.body.calendarID;
+	// 		one.save(function(){
+	// 			alert("save!");
+	// 		})
+	// 	})
+	// 	var cID = req.body.calendarID;
+	// });
+
 	// LOGOUT ==============================
 	app.get('/logout', function(req, res) {
 		req.logout();
 		res.redirect('/');
 	});
 
+
+	app.get('/calendar', function(req, res){
+		res.render('calendar', {});
+	})
 // =============================================================================
 // AUTHENTICATE (FIRST LOGIN) ==================================================
 // =============================================================================
@@ -36,6 +65,7 @@ module.exports = function(app, passport) {
 			successRedirect : '/profile', // redirect to the secure profile section
 			failureRedirect : '/login', // redirect back to the signup page if there is an error
 			failureFlash : true // allow flash messages
+
 		}));
 
 		// SIGNUP =================================

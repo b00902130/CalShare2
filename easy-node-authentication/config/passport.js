@@ -5,6 +5,7 @@ var TwitterStrategy  = require('passport-twitter').Strategy;
 var GoogleStrategy   = require('passport-google-oauth').OAuth2Strategy;
 
 // load up the user model
+
 var User       = require('../app/models/user');
 
 // load the auth variables
@@ -72,9 +73,10 @@ module.exports = function(passport) {
         // by default, local strategy uses username and password, we will override with email
         usernameField : 'email',
         passwordField : 'password',
+        calendarIDField : 'calendarID',
         passReqToCallback : true // allows us to pass in the req from our route (lets us check if a user is logged in or not)
     },
-    function(req, email, password, done) {
+    function(req, email, password, calendarID, done) {
         if (email)
             email = email.toLowerCase(); // Use lower-case e-mails to avoid case-sensitive e-mail matching
 
@@ -97,6 +99,7 @@ module.exports = function(passport) {
 
                         newUser.local.email    = email;
                         newUser.local.password = newUser.generateHash(password);
+                        newUser.local.calendarID = calendarID;
 
                         newUser.save(function(err) {
                             if (err)
@@ -113,6 +116,7 @@ module.exports = function(passport) {
                 var user            = req.user;
                 user.local.email    = email;
                 user.local.password = user.generateHash(password);
+                user.local.calendarID = calendarID;
                 user.save(function(err) {
                     if (err)
                         throw err;
