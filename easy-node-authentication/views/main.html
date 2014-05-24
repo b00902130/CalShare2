@@ -1,0 +1,23 @@
+<div class="ui red large vertical demo sidebar menu" ui-sidebar>
+  <form ng-submit="addUser(username, calendar_id)">
+    <input type="text" placeholder="username"    class="form-control" ng-model="username">
+    <input type="text" placeholder="calendar_id" class="form-control" ng-model="calendar_id">
+    <input type="submit" value="Submit" class="form-control">
+  </form>
+  <div class="item" ng-repeat="cal in calendars" style="background-color: {{cal.color}}; color: white">
+    <h3>{{cal.username}}</h3>
+  </div>
+</div>
+
+<div class="header">
+  <ul class="nav nav-pills pull-right">
+    <li><a ng-click="toggleSidebar()">設定使用者</a></li>
+  </ul>
+  <h3 class="text-muted">CalenShare</h3>
+</div>
+
+<div ui-calendar="uiConfig.calendar" ng-model="eventSources"></div>
+
+<div class="footer">
+  <p>♥ from the HackEverything team</p>
+</div>
