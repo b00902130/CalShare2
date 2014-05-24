@@ -47,8 +47,8 @@ module.exports = function(app, passport) {
 
 
 	app.get('/calendar', function(req, res){
-		res.render('calendar', {});
-	})
+		  res.render('calendar.ejs');
+	});
 // =============================================================================
 // AUTHENTICATE (FIRST LOGIN) ==================================================
 // =============================================================================
